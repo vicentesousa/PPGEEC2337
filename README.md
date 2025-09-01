@@ -12,7 +12,7 @@
 - Análise de Outage de potência
 
 - As entregas estão especificadas ao longo dos Hands-ons;
-- As entregas devem compor um único arquivo **zip** com os códigos separados nas seguintes pastas: Entrega_01, Entrega_02, respectivamente para cada entrega;
+- As entregas devem compor um único arquivo **zip** com os códigos separados nas seguintes pastas: Entrega_00, Entrega_01, Entrega_02, respectivamente para cada entrega;
 - Cada pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados);
 - Todos os códigos devem ser feitos em linguagem **Pyhton**;
 - Não será necessário produzir um relatório. Contudo, é parte importante da entrega a produção de um vídeo de até 5 minutos (compartilhados no google drive ou youtube), contendo a descrição do código implementado e a discussão dos resultados (explicar brevemente o que foi feito, mostrar as formulações em slides (se necessário), mostrar como rodar o código, os gráficos gerados e dissertar sobre as conclusões). O link do vídeo deve ser informado no arquivo README.txt (compartilhe o vídeo com **vicente.sousa@ufrn.br**);
