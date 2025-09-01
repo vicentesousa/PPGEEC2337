@@ -1,48 +1,17 @@
-# DCO1020: Comunicações Móveis - 2025.2
+# PPGEEC2337 - RADIOPROPAGAÇÃO - 2025.2
 
-<!--
-## UNIDADE I
+## Projetos
 
 ### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
 
-#### Avaliação de cobertura celular [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/h01_2025.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/h01_2025.ipynb)
+#### Parte 01: Avaliação de cobertura celular [Link via Github](https://github.com/vicentesousa/PPGEEC2337/blob/main/hands_ons/h01_parte01.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337/blob/main/hands_ons/h01_parte01.ipynb)
 
 **Objetivos:**
 - Criação de Grid Hexagonal para modelar cobertura de Estações Rádio Base
 - Análise visual de potência recebida 
 - Análise de Outage de potência
 
-### Hands-on 02: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte_03_2025.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte_03_2025.ipynb)
-
-**Objetivos:**
-- Gerar uma série temporal sintética com Perda de Percurso, Sombreamento e Desvanecimento m-Nakagami;
-- Estimar cada desvanecimento por meio de regressão linear, filtragem e tratamento estatístico;
-- Fazer gráficos e comparar as partes geradas sinteticamente e as partes estimadas.
-
-**Entregas:**
-- As entregas estão especificadas ao longo do Hands-on;
-- As entregas devem compor um único arquivo **zip** com os códigos separados nas seguintes pastas: Entrega_01. 
-- A pasta deve conter um arquivo chamado README.txt, indicando como rodar o código produzido por você (produza um código autocontido, no qual o usuário deva rodar um único script para chegar nos resultados desejados). 
-- Não será necessário produzir um relatório. Contudo, é parte importante da entrega a produção de vídeos (compartilhados no google drive ou youtube), contendo a descrição do código implementado (explicar brevemente o que foi feito, mostrar as formulações em slides se necessário, mostrar como rodar o código e os gráficos gerados). O link do vídeo deve ser informado no arquivo README.txt (caso necessite, compartilhe o vídeo com **vicente.sousa@ufrn.br**);
-- Um vídeo de até 5 minutos deve conter o conteúdo da Entrega_01.
-
-**Prazo:**
-- As entregas do Hands-on 1 devem ser feitas via SIGAA;
-
--->
-
-## UNIDADE I
-
-### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
-
-#### Parte 01: Avaliação de cobertura celular [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte01.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte01.ipynb)
-
-**Objetivos:**
-- Criação de Grid Hexagonal para modelar cobertura de Estações Rádio Base
-- Análise visual de potência recebida 
-- Análise de Outage de potência
-
-####  Parte 02: Modelagem da cobertura celula com sombreamento - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte02.ipynb)
+####  Parte 02: Modelagem da cobertura celula com sombreamento - [Link via Github](https://github.com/vicentesousa/PPGEEC2337/blob/main/hands_ons/h01_parte02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337/blob/main/hands_ons/h01_parte02.ipynb)
 
 **Objetivos:**
 - Análise visual de potência recebida com sobreamento
@@ -59,7 +28,7 @@
 **Prazo:**
 - As entregas do Hands-on 1 - Parte 01 e do Hands-on 1 - Parte 02 devem ser feitas via SIGAA;
 
-### Hands-on 02: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/h01_parte_03.ipynb)
+### Hands-on 02: Caracterização de canal banda estreita (modelagem e caracterização do desvanecimento de pequena escala) - [Link via Github](https://github.com/vicentesousa/PPGEEC2337/blob/main/hands_ons/h01_parte_03.ipynb)  - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337/blob/main/hands_ons/h01_parte_03.ipynb)
 
 **Objetivos:**
 - Gerar uma série temporal sintética com Perda de Percurso, Sombreamento e Desvanecimento m-Nakagami;
@@ -80,7 +49,7 @@
 
 ## UNIDADE II
 
-### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio) - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_2/blob/main/h02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h02.ipynb)
+### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio) - [Link via Github](https://github.com/vicentesousa/PPGEEC2337_2021_2/blob/main/h02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337/blob/main/h02.ipynb)
 #### Objetivos
 - Entender a modelagem da multiplexação OFDM;
 - Entender o processo de ortogalização entre subportadoras OFDM;
@@ -94,7 +63,7 @@
 **Prazo:**
 - As entregas do Hands-on 1 devem ser feitas via SIGAA;
 
-### Hands-on 2: calculadora de taxa de transmissão máxima de sistemas 4G e 5G - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_2/blob/main/h03.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h03.ipynb)
+### Hands-on 2: calculadora de taxa de transmissão máxima de sistemas 4G e 5G - [Link via Github](https://github.com/vicentesousa/PPGEEC2337_2021_2/blob/main/h03.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337/blob/main/h03.ipynb)
 
 #### Objetivos
 - Entender o cálculo de taxa máxima de sistemas 3GPP-LTE (Release 10);
@@ -113,7 +82,7 @@
 
 ## UNIDADE III
 
-### Hands-on 01: Instalação de Máquina Virtual - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/H00_VM_VBox.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/H00_VM_VBox.ipynb)
+### Hands-on 01: Instalação de Máquina Virtual - [Link via Github](https://github.com/vicentesousa/PPGEEC2337/blob/main/hands_ons/H00_VM_VBox.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337/blob/main/H00_VM_VBox.ipynb)
 
 #### Objetivos
 - Instalar e configurar uma maquina virtual Linux Ubuntu 22.04 LTS (Focal Fossa). **ATENÇÃO:** Ubuntu 22.04 e não o 20.04!!!.
@@ -125,7 +94,7 @@
 - As entregas devem ser feitas via SIGAA.
 
 
-### Hands-on 02: Instalação de Núcleo do Rede 5G (5GC) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons//H01_5GCore_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons//H01_5GCore_UNI_III.ipynb)
+### Hands-on 02: Instalação de Núcleo do Rede 5G (5GC) - [Link via Github](https://github.com/vicentesousa/PPGEEC2337/blob/main/hands_ons//H01_5GCore_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337/blob/main/hands_ons//H01_5GCore_UNI_III.ipynb)
 
 #### Objetivos
 - Install and configure the 5GC of OAI in a virtual machine Ubuntu 22.04 LTS (Focal Fossa)
@@ -140,7 +109,7 @@
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
 
-### Hands-on 03: Instalação da estação base 5G (gNB) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/H02_5G_gNB_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/H02_5G_gNB_UNI_III.ipynb)
+### Hands-on 03: Instalação da estação base 5G (gNB) - [Link via Github](https://github.com/vicentesousa/PPGEEC2337/blob/main/hands_ons/H02_5G_gNB_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337/blob/main/hands_ons/H02_5G_gNB_UNI_III.ipynb)
 
 #### Objetivos
 - Install and configure the OAI gNB
@@ -153,7 +122,7 @@
 **Prazo:**
 - As entregas devem ser feitas via SIGAA.
 
-### Hands-on 04: Instalação do User Equipment (UE) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/hands_ons/H03_5G_UE_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/hands_ons/H03_5G_UE_UNI_III.ipynb)
+### Hands-on 04: Instalação do User Equipment (UE) - [Link via Github](https://github.com/vicentesousa/PPGEEC2337/blob/main/hands_ons/H03_5G_UE_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337/blob/main/hands_ons/H03_5G_UE_UNI_III.ipynb)
 
 #### Objetivos
 - Install and configure a UE
@@ -166,7 +135,7 @@
 - As entregas devem ser feitas via SIGAA.
 
 <!--
-### Hands-on 05: Alternative installation of the whole 5G system - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/H01_5GFast_Deployment_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/H01_5GFast_Deployment_UNI_III.ipynb)
+### Hands-on 05: Alternative installation of the whole 5G system - [Link via Github](https://github.com/vicentesousa/PPGEEC2337/blob/main/H01_5GFast_Deployment_UNI_III.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337/blob/main/H01_5GFast_Deployment_UNI_III.ipynb)
 
 #### Objetivos
 - Install and configure the whole 5G System with docker-compose
@@ -179,7 +148,7 @@
 
 ## UNIDADE III
 
-### Protótipo em software para modelagem da SINR e controle de potência do enlace reverso com uma camada de interferência co-canal e reuso 1 - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/h05.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h05.ipynb)
+### Protótipo em software para modelagem da SINR e controle de potência do enlace reverso com uma camada de interferência co-canal e reuso 1 - [Link via Github](https://github.com/vicentesousa/PPGEEC2337/blob/main/h05.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337/blob/main/h05.ipynb)
 
 #### Objetivos
 - Entender o cálculo da SINR em sistemas com reúso 1;
@@ -187,7 +156,7 @@
 - Entender código existente e implementar novas funcionalidades.
 
 **Código Básico:**
-- O código base está em https://github.com/vicentesousa/DCO1020/tree/main/CODES/HD_05/SKELETON_UPLINK_parte_01_students
+- O código base está em https://github.com/vicentesousa/PPGEEC2337/tree/main/CODES/HD_05/SKELETON_UPLINK_parte_01_students
 - A primeira tarefa, além de entender o projeto, é entender o que já tem implementado no código e indentificar o que precisa ser implementado.
 
 **Prazo:**
@@ -195,7 +164,7 @@
 
 ## UNIDADE III
 
-### Projeto da UNIDADE III - [Link via Github](https://github.com/vicentesousa/DCO1020_2021_2/blob/main/h04.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020_2021_2/blob/main/h04.ipynb)
+### Projeto da UNIDADE III - [Link via Github](https://github.com/vicentesousa/PPGEEC2337_2021_2/blob/main/h04.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337_2021_2/blob/main/h04.ipynb)
 #### Objetivos
 - Colocar o aluno em contato com material técnico sobre Sistemas Modernos de Comunicação; 
 - Incentivar a preparação de material técnico pelo aluno;
@@ -208,7 +177,7 @@
 
 ## Parte 2
 
-### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio) - [Link via Github](https://github.com/vicentesousa/DCO1020/blob/main/h02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1020/blob/main/h02.ipynb)
+### Hands-on 1: OFDM Basics (ortogonalidade, transmissão e recepção, desempenho em canal sem fio) - [Link via Github](https://github.com/vicentesousa/PPGEEC2337/blob/main/h02.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337/blob/main/h02.ipynb)
 #### Objetivos
 - Entender a modelagem da multiplexação OFDM;
 - Entender o processo de ortogalização entre subportadoras OFDM;
