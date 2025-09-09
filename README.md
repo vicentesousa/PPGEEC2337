@@ -4,7 +4,13 @@
 
 ### Hands-on 01: Uso de modelos de propagação para análises sistêmicas
 
-#### Parte 01: Avaliação de cobertura celular [Link via Github](https://github.com/vicentesousa/PPGEEC2337/blob/main/hands_ons/h01_parte01.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337/blob/main/hands_ons/h01_parte01.ipynb)
+#### Parte 01: Avaliação de cobertura celular 
+
+- Códigos em Matlab: [Link via Github](https://github.com/vicentesousa/PPGEEC2337/blob/main/hands_ons/h01_parte01.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337/blob/main/hands_ons/h01_parte01.ipynb)
+
+
+- Códigos em Python: [Link via Github](https://github.com/vicentesousa/PPGEEC2337/blob/main/hands_ons/h01_parte01.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337/blob/main/hands_ons/h01_parte01.ipynb)
+
 
 **Objetivos:**
 - Criação de Grid Hexagonal para modelar cobertura de Estações Rádio Base
