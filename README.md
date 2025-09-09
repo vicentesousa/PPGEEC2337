@@ -9,7 +9,7 @@
 - Códigos em Matlab: [Link via Github](https://github.com/vicentesousa/PPGEEC2337/blob/main/hands_ons/h01_parte01.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337/blob/main/hands_ons/h01_parte01.ipynb)
 
 
-- Códigos em Python: [Link via Github](https://github.com/vicentesousa/PPGEEC2337/blob/main/hands_ons/h01_parte01.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337/blob/main/hands_ons/h01_parte01.ipynb)
+- Códigos em Python: [Link via Github](https://github.com/vicentesousa/PPGEEC2337/blob/main/hands_ons/h01_parte01_python.ipynb) - [Link alternativo via nbviewer](http://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337/blob/main/hands_ons/h01_parte01_python.ipynb)
 
 
 **Objetivos:**
