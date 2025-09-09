@@ -5,7 +5,7 @@
 ### Material Introdutório sobre Python 3
 
 ### O que devemos saber para começar a programar com Python 3 (para quem quiser fazer em Python)
-#### [Link via Github](https://github.com/vicentesousa/DCO1005/blob/main/h01_python.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/DCO1005/blob/main/h01_python.ipynb)
+#### [Link via Github](https://github.com/vicentesousa/PPGEEC2337/blob/main/h01_python.ipynb) - [Link alternativo via nbviewer](https://nbviewer.jupyter.org/github/vicentesousa/PPGEEC2337/blob/main/h01_python.ipynb)
 
 **Objetivos**
 - Apresentar vantagens de usar o Python3
